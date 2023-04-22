@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Roboto Mono', monospace;
+    /* Link to font used:https://fonts.google.com/share?selection.family=Roboto%20Mono */
+}
+h2{
+  font-family: 'Roboto Mono', monospace;
+ text-align: left;
+}
+h3{
+  font-family: 'Roboto Mono', monospace;
+  text-align: left;
+}
+
+body{
+    background-color: #1db954;
+    /* Link to color reference: https://usbrandcolors.com/spotify-colors/ */
+    /* Trying to color reference to spotify's color palette for my reference */
+}
+
+p{
+    font-family: 'Roboto Mono', monospace;
+}
